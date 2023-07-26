@@ -199,3 +199,5 @@ app_license = "MIT"
 # auth_hooks = [
 #	"gold.auth.validate"
 # ]
+
+fixtures = ["Custom Field"]
